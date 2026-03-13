@@ -7,7 +7,7 @@ Beginner frontend developer. Completed the Hexlet course, learning JavaScript (E
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## Educational Projects
-- [Brain games](#) – a set of console games  
+- [Brain games](https://github.com/krllkrbv/frontend-project-44) – a set of console games  
 - [Gendiff](#) – a utility for comparing two configuration files  
 - [RSS Reader](#) – a news aggregator with form validation and i18n  
 - [Chat (Slack clone)](#) – a chat application with authentication, registration, and channels built with React 
