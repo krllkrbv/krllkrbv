@@ -8,9 +8,9 @@ Beginner frontend developer. Completed the Hexlet course, learning JavaScript (E
 
 ## Educational Projects
 - [Brain games](https://github.com/krllkrbv/frontend-project-44) – a set of console games  
-- [Gendiff](#) – a utility for comparing two configuration files  
-- [RSS Reader](#) – a news aggregator with form validation and i18n  
-- [Chat (Slack clone)](#) – a chat application with authentication, registration, and channels built with React 
+- [Gendiff](https://github.com/krllkrbv/frontend-project-46) – a utility for comparing two configuration files  
+- [RSS Reader](https://github.com/krllkrbv/frontend-project-11) – a news aggregator with form validation and i18n  
+- [Chat (Slack clone)](https://github.com/krllkrbv/frontend-project-12) – a chat application with authentication, registration, and channels built with React 
 
 **krllkrbv/krllkrbv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
